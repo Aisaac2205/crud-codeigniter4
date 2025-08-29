@@ -33,7 +33,7 @@ El proyecto incluye 3 tablas principales:
 ### Paso 1: Clonar el Repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/crud-codeigniter4.git
+git clone https://github.com/Aisaac2205/crud-codeigniter4
 cd crud-codeigniter4
 ```
 
@@ -232,19 +232,8 @@ Desarrollado como proyecto académico para demostrar habilidades en:
 - Frontend responsive
 - CRUD completo
 
----
-
-## 🎯 **¡IMPORTANTE PARA TUS COMPAÑEROS!**
-
-### Si tienes problemas:
-1. **Verifica XAMPP** esté corriendo
-2. **Confirma credenciales** de base de datos
-3. **Revisa la URL** correcta
-4. **Importa el script.sql** en phpMyAdmin
-
 ### Para personalizar:
 - Edita `app/Config/Database.php` con tus credenciales
 - Modifica `script.sql` si quieres otros datos de ejemplo
 - Cambia colores en las vistas CSS
 
-**¡El proyecto está 100% funcional y listo para usar!** 🚀
