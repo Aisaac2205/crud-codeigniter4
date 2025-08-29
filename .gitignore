@@ -1,0 +1,41 @@
+# Archivos de entorno con credenciales
+.env
+.env.local
+.env.production
+
+# Archivos de configuración de base de datos
+app/Config/Database.php
+
+# Archivos del sistema
+writable/
+system/
+vendor/
+composer.lock
+
+# Archivos de sesión
+public/null/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de backup
+*.bak
+*.backup
+
+# Archivos de prueba
+test_simple.php
+debug_db.php
